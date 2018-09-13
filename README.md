@@ -1,7 +1,5 @@
 # Ecommerce ShoeShop
 
-This project was generated 
-
 ## Auther Note:
 This project used json databasse local. This semi project include 
 1. Load more Feature
